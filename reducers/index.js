@@ -1,9 +1,6 @@
 import {combineReducers} from 'redux';
-
-const simpleReducer = (state = {}, action) => {
-  return state;
-}
+import githubers from './githubers_reducer';
 
 export default combineReducers({
-  simpleReducer
+  githubers
 });
