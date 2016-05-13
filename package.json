@@ -1,5 +1,5 @@
 {
-  "name": "mm-githubers",
+  "name": "myanmar-githubers",
   "version": "1.0.0",
   "description": "A special watcher application for what myanmar developers are contributing on github publicly",
   "main": "index.js",
